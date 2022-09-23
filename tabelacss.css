@@ -1,0 +1,108 @@
+.divtudo{
+    font-family: arial,sans-serif;
+}
+
+*{
+    margin: 0 auto;
+}
+
+.divlinha{
+    clear: both;
+}
+
+body{
+    background-color: grey;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    border: solid 1px;
+   
+}
+
+#divcabecalho{
+    background-color: #162E58;
+    min-height: 100px;
+    padding: 30px 50px 10px 50px;
+}
+
+#h1titulocabecalho{
+    color: white;
+    float: left;
+    min-width: 50%;
+    font-size: 16px;
+    text-align: left;
+}
+
+.h2tituloSessao{
+    font-size: 20px;
+    padding: 10px;
+}
+
+#divclassificacao{
+    width: 50%;
+}
+.h3titulogrupo{
+    font-size: 14px;
+}
+
+#tableclassificacao{
+   width: 100%;
+   background-color: #FFFFFF; 
+}
+
+table, td, th{
+    border-bottom: solid 1px #e2e2e2;
+    border-collapse: collapse;
+}
+
+#divgoleadores{
+    width: 50%;
+}
+
+#tablegoleadores{
+    width: 100%;
+    background-color: #ffffff;
+    
+}
+
+#divjogos{
+    width: 50%;
+}
+
+#tablejogos{
+    width: 100%;
+    background-color: #FFFFFF;
+}
+.napoli{
+    width: 60px;
+    height: 40px;
+}
+.liverpoll{
+    width: 30px;
+    height: 45px;
+}
+.ajax{
+    width: 45px;
+    height: 45px;
+}
+.rangers{
+    width: 45px;
+    height: 45px;
+}
+.brugge{
+    width: 40px;
+    height: 45px;
+}
+.leverkusen{
+    width: 45px;
+    height: 45px;
+}
+.madrid{
+    width: 75px;
+    height: 45px;
+}
+.porto{
+    width: 65px;
+    height: 45px;
+}
